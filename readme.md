@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
-Blog - This is my second project built in laravel. It has following functionalities:
+## Blog - This is my second project built in laravel. It has following functionalities:
 </p>
 
 <ul>
